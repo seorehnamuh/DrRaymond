@@ -1270,3 +1270,171 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.27-20.30.33:261][399]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
 [2024.05.27-20.30.33:385][400]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.05.27-20.30.33:700][415]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-20.32.38:477][800]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\debor\Desktop\NET ART\progetto\Il laboratorio del Dott. Raymond\BLOCKOUT SCENE\asset blockout Laboratory\4_firstfloor\SM_hanger2.fbx)
+[2024.05.27-20.32.38:500][800]LogFbx: Loading FBX Scene from C:\Users\debor\Desktop\NET ART\progetto\Il laboratorio del Dott. Raymond\BLOCKOUT SCENE\asset blockout Laboratory\4_firstfloor\SM_hanger2.fbx
+[2024.05.27-20.32.38:515][800]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.27-20.32.41:204][800]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.27-20.32.41:346][800]LogFbxMaterialImport: Display: Unable to find Texture file D:\JOB\PROJECT\Material\WOOD\Pine Wood Texture\Pine Wood Texture Diffuse.png
+[2024.05.27-20.32.41:347][800]LogFbxMaterialImport: Display: Unable to find Texture file D:\JOB\PROJECT\Material\WOOD\Pine Wood Texture\Pine Wood Texture Roughness.png
+[2024.05.27-20.32.41:347][800]LogFbxMaterialImport: Display: Unable to find Texture file D:\JOB\PROJECT\Material\WOOD\Pine Wood Texture\Pine Wood Texture Normal.png
+[2024.05.27-20.32.41:361][800]LogFbx: Display: Triangulating static mesh SM_hanger2
+[2024.05.27-20.32.41:427][800]LogStaticMesh: Display: Building static mesh SM_hanger2_SM_hanger2...
+[2024.05.27-20.32.41:468][800]LogStaticMesh: Built static mesh [0.04s] /Game/asset/6_Laboratory_Objects/SM_hanger2_SM_hanger2.SM_hanger2_SM_hanger2
+[2024.05.27-20.32.41:472][800]LogStaticMesh: Warning: SM_hanger2_SM_hanger2 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2024.05.27-20.32.41:472][800]LogStaticMesh: Warning: SM_hanger2_SM_hanger2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.05.27-20.32.41:485][800]LogFbxMaterialImport: Display: Unable to find Texture file D:\JOB\PROJECT\Material\Powder Coating\Black Powder Coating Texture\Black Powder Coating Texture Diffuse.png
+[2024.05.27-20.32.41:485][800]LogFbxMaterialImport: Display: Unable to find Texture file D:\JOB\PROJECT\Material\Powder Coating\Black Powder Coating Texture\Black Powder Coating Texture Roughness.png
+[2024.05.27-20.32.41:486][800]LogFbxMaterialImport: Display: Unable to find Texture file D:\JOB\PROJECT\Material\Powder Coating\Black Powder Coating Texture\Black Powder Coating Texture Normal.png
+[2024.05.27-20.32.41:498][800]LogFbx: Display: Triangulating static mesh Plane.003
+[2024.05.27-20.32.41:586][800]LogStaticMesh: Display: Building static mesh SM_hanger2_Plane_003...
+[2024.05.27-20.32.41:638][800]LogStaticMesh: Built static mesh [0.05s] /Game/asset/6_Laboratory_Objects/SM_hanger2_Plane_003.SM_hanger2_Plane_003
+[2024.05.27-20.32.41:694][800]LogFbx: Display: Triangulating static mesh Bolt
+[2024.05.27-20.32.41:881][800]LogStaticMesh: Display: Building static mesh SM_hanger2_Bolt...
+[2024.05.27-20.32.42:063][800]LogStaticMesh: Built static mesh [0.18s] /Game/asset/6_Laboratory_Objects/SM_hanger2_Bolt.SM_hanger2_Bolt
+[2024.05.27-20.32.42:112][800]FBXImport: Warning: SM_hanger2_SM_hanger2 has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2024.05.27-20.32.42:112][800]FBXImport: Warning: SM_hanger2_SM_hanger2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: ================================================
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: RAM used: 18,13 KiB of 819,20 MiB budget. Usage: 0.00%
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.04 s
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: Job execution time: average 0.70 s, max 0.70 s
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: Job life time (pending + execution): average 0.73 s, max 0.73
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: Shader code size: average 29,711 KiB, min 29,711 KiB, max 29,711 KiB
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.73 s
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: Average processing rate: 1.36 jobs/sec
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: Total thread time: 0,208 s
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: Total thread preprocess time: 0,064 s
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: Percentage time preprocessing: 30.69%
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: Effective parallelization: 0.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.05.27-20.32.43:091][831]LogShaderCompilers: Display: ================================================
+[2024.05.27-20.32.56:381][596]LogSlate: Window 'Message Log' being destroyed
+[2024.05.27-20.32.56:387][596]LogSlate: Window 'Message Log' being destroyed
+[2024.05.27-20.33.48:384][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.05.27-20.33.49:462][441]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.27-20.33.49:469][441]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/asset/6_Laboratory_Objects/Steel.Steel
+	Asset Type: Material
+[2024.05.27-20.33.49:602][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.05.27-20.33.49:606][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.05.27-20.33.49:610][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.05.27-20.33.50:472][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.05.27-20.33.51:581][487]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.27-20.33.51:590][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.05.27-20.33.51:595][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.05.27-20.33.51:600][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.05.27-20.33.52:482][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.05.27-20.33.53:651][535]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.27-20.33.53:660][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.05.27-20.33.53:665][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.05.27-20.33.53:669][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.05.27-20.33.54:462][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.05.27-20.33.55:723][578]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.27-20.33.55:734][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.27-20.33.55:739][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.05.27-20.33.55:742][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.05.27-20.39.23:319][852]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\debor\Desktop\NET ART\progetto\Il laboratorio del Dott. Raymond\BLOCKOUT SCENE\asset blockout Laboratory\4_firstfloor\SM_hanger3.fbx)
+[2024.05.27-20.39.23:325][852]LogFbx: Loading FBX Scene from C:\Users\debor\Desktop\NET ART\progetto\Il laboratorio del Dott. Raymond\BLOCKOUT SCENE\asset blockout Laboratory\4_firstfloor\SM_hanger3.fbx
+[2024.05.27-20.39.23:335][852]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.27-20.39.25:048][852]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.27-20.39.25:228][852]LogFbx: Display: Triangulating static mesh SM_hanger3
+[2024.05.27-20.39.25:547][852]LogStaticMesh: Display: Building static mesh SM_hanger3...
+[2024.05.27-20.39.25:949][852]LogStaticMesh: Built static mesh [0.40s] /Game/asset/4_firstfloor/SM_hanger3.SM_hanger3
+[2024.05.27-20.39.25:980][852]LogStaticMesh: Warning: SM_hanger3 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2024.05.27-20.39.25:980][852]LogStaticMesh: Warning: SM_hanger3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.05.27-20.39.26:020][852]FBXImport: Warning: SM_hanger3 has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2024.05.27-20.39.26:020][852]FBXImport: Warning: SM_hanger3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.05.27-20.39.31:657][172]LogSlate: Window 'Message Log' being destroyed
+[2024.05.27-20.39.31:663][172]LogSlate: Window 'Message Log' being destroyed
+[2024.05.27-20.39.44:995][957]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/asset/4_firstfloor/SM_wall_hanger.SM_wall_hanger
+[2024.05.27-20.39.44:996][957]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/asset/4_firstfloor/SM_wall_hanger.SM_wall_hanger
+[2024.05.27-20.39.44:996][957]LogActorFactory: Actor Factory spawned StaticMesh /Game/asset/4_firstfloor/SM_wall_hanger.SM_wall_hanger as actor: StaticMeshActor /Game/Levels/DrRaymond_Lab.DrRaymond_Lab:PersistentLevel.StaticMeshActor_22
+[2024.05.27-20.39.47:476][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/asset/4_firstfloor/SM_wall_hanger.SM_wall_hanger
+[2024.05.27-20.39.47:476][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/asset/4_firstfloor/SM_wall_hanger.SM_wall_hanger
+[2024.05.27-20.39.47:479][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/asset/4_firstfloor/SM_wall_hanger.SM_wall_hanger as actor: StaticMeshActor /Game/Levels/DrRaymond_Lab.DrRaymond_Lab:PersistentLevel.StaticMeshActor_25
+[2024.05.27-20.39.48:660][171]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.27-20.39.54:742][524]Cmd: DELETE
+[2024.05.27-20.39.54:742][524]Cmd: ACTOR DELETE
+[2024.05.27-20.39.54:745][524]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.27-20.39.54:750][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.27-20.39.54:752][524]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.05.27-20.40.01:372][905]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.27-20.40.11:024][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/asset/4_firstfloor/SM_hanger3.SM_hanger3
+[2024.05.27-20.40.11:024][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/asset/4_firstfloor/SM_hanger3.SM_hanger3
+[2024.05.27-20.40.11:025][462]LogActorFactory: Actor Factory spawned StaticMesh /Game/asset/4_firstfloor/SM_hanger3.SM_hanger3 as actor: StaticMeshActor /Game/Levels/DrRaymond_Lab.DrRaymond_Lab:PersistentLevel.StaticMeshActor_28
+[2024.05.27-20.40.11:538][491]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/asset/4_firstfloor/SM_hanger3.SM_hanger3
+[2024.05.27-20.40.11:538][491]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/asset/4_firstfloor/SM_hanger3.SM_hanger3
+[2024.05.27-20.40.11:540][491]LogActorFactory: Actor Factory spawned StaticMesh /Game/asset/4_firstfloor/SM_hanger3.SM_hanger3 as actor: StaticMeshActor /Game/Levels/DrRaymond_Lab.DrRaymond_Lab:PersistentLevel.StaticMeshActor_29
+[2024.05.27-20.40.17:089][820]Cmd: DELETE
+[2024.05.27-20.40.17:089][820]Cmd: ACTOR DELETE
+[2024.05.27-20.40.17:091][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.27-20.40.17:096][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.27-20.40.17:097][820]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2024.05.27-20.40.54:633][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.05.27-20.40.54:683][707]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/DrRaymond_Lab_Auto2
+[2024.05.27-20.40.54:685][707]LogSavePackage: Moving '../../../../Users/debor/Desktop/DrRaymond/MyProject2/Saved/DrRaymond_Lab_Auto2D385851345F6C09CCDD29A83D9D7C279.tmp' to '../../../../Users/debor/Desktop/DrRaymond/MyProject2/Saved/Autosaves/Game/Levels/DrRaymond_Lab_Auto2.umap'
+[2024.05.27-20.40.54:688][707]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/debor/Desktop/DrRaymond/MyProject2/Saved/Autosaves/Game/Levels/DrRaymond_Lab_Auto2.umap is in the /Temp path, will not scan.
+[2024.05.27-20.40.54:689][707]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/DrRaymond_Lab' took 0.061
+[2024.05.27-20.40.54:689][707]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.061
+[2024.05.27-20.40.54:689][707]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/asset/6_Laboratory_Objects/Bolt] ([1] browsable assets)...
+[2024.05.27-20.40.55:965][707]LogShaderCompilers: Display: ================================================
+[2024.05.27-20.40.55:965][707]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.27-20.40.55:965][707]LogShaderCompilers: Display: Total job queries 26, among them cache hits 10 (38.46%)
+[2024.05.27-20.40.55:965][707]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 13 distinct outputs (81.25%)
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: RAM used: 393,54 KiB of 819,20 MiB budget. Usage: 0.05%
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: Shaders Compiled: 16
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100%)
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: Average time worker was idle: 245.75 s
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 0.93 s
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: Job execution time: average 0.72 s, max 0.90 s
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: Job life time (pending + execution): average 0.96 s, max 1.25
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: Shader code size: average 41,893 KiB, min 29,711 KiB, max 60,766 KiB
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.20 s
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: Average processing rate: 7.28 jobs/sec
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: Total thread time: 5,664 s
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: Total thread preprocess time: 0,816 s
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: Percentage time preprocessing: 14.41%
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: Effective parallelization: 2.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.92% of total time (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.80% of total time (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 7.75% of total time (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.55% of total time (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.46% of total time (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2024.05.27-20.40.55:966][707]LogShaderCompilers: Display: ================================================
+[2024.05.27-20.40.56:077][707]OBJ SavePackage:     Rendered thumbnail for [Material /Game/asset/6_Laboratory_Objects/Bolt.Bolt]
+[2024.05.27-20.40.56:077][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/asset/6_Laboratory_Objects/Bolt]
+[2024.05.27-20.40.56:084][707]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/asset/6_Laboratory_Objects/Bolt_Auto2
+[2024.05.27-20.40.56:084][707]LogSavePackage: Moving '../../../../Users/debor/Desktop/DrRaymond/MyProject2/Saved/Bolt_Auto2E262BDA6440C2DCC4BD4CAAFEBDAC6E6.tmp' to '../../../../Users/debor/Desktop/DrRaymond/MyProject2/Saved/Autosaves/Game/asset/6_Laboratory_Objects/Bolt_Auto2.uasset'
+[2024.05.27-20.40.56:086][707]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/asset/6_Laboratory_Objects/Pine_Wood] ([1] browsable assets)...
+[2024.05.27-20.40.56:154][707]OBJ SavePackage:     Rendered thumbnail for [Material /Game/asset/6_Laboratory_Objects/Pine_Wood.Pine_Wood]
+[2024.05.27-20.40.56:154][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/asset/6_Laboratory_Objects/Pine_Wood]
+[2024.05.27-20.40.56:158][707]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/asset/6_Laboratory_Objects/Pine_Wood_Auto2
+[2024.05.27-20.40.56:158][707]LogSavePackage: Moving '../../../../Users/debor/Desktop/DrRaymond/MyProject2/Saved/Pine_Wood_Auto2C11545954778940A77CAC7B7C64C7BF1.tmp' to '../../../../Users/debor/Desktop/DrRaymond/MyProject2/Saved/Autosaves/Game/asset/6_Laboratory_Objects/Pine_Wood_Auto2.uasset'
+[2024.05.27-20.40.56:161][707]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/asset/4_firstfloor/SM_hanger3] ([1] browsable assets)...
+[2024.05.27-20.40.56:194][707]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/asset/4_firstfloor/SM_hanger3.SM_hanger3]
+[2024.05.27-20.40.56:194][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/asset/4_firstfloor/SM_hanger3]
+[2024.05.27-20.40.56:217][707]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/asset/4_firstfloor/SM_hanger3_Auto2
+[2024.05.27-20.40.56:217][707]LogSavePackage: Moving '../../../../Users/debor/Desktop/DrRaymond/MyProject2/Saved/SM_hanger3_Auto2B777222C4B291FF6C1EEF0AA12A4892F.tmp' to '../../../../Users/debor/Desktop/DrRaymond/MyProject2/Saved/Autosaves/Game/asset/4_firstfloor/SM_hanger3_Auto2.uasset'
+[2024.05.27-20.40.56:219][707]LogFileHelpers: Auto-saving content packages took 1.530
+[2024.05.27-20.44.45:739][785]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\debor\Desktop\NET ART\progetto\Il laboratorio del Dott. Raymond\BLOCKOUT SCENE\asset blockout Laboratory\4_firstfloor\SM_drJacket.fbx)
+[2024.05.27-20.44.45:771][785]LogFbx: Loading FBX Scene from C:\Users\debor\Desktop\NET ART\progetto\Il laboratorio del Dott. Raymond\BLOCKOUT SCENE\asset blockout Laboratory\4_firstfloor\SM_drJacket.fbx
+[2024.05.27-20.44.45:952][785]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.27-20.44.47:934][785]LogSlate: Window 'FBX Import Options' being destroyed
